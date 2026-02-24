@@ -1,0 +1,7 @@
+streamlit
+streamlit
+ultralytics
+torch
+torchvision
+Pillow
+numpy
